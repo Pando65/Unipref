@@ -1,0 +1,277 @@
+[Dialog Page Order]
+COMPage,[vs70pgui.dll]-[BB81D810-3F9B-11D3-A50C-00C04F5E0BA5] : Start Page
+COMPage,[vs70pgui.dll]-[9FE307C0-3646-11d3-A508-00C04F5E0BA5] : Options Page
+COMProgPage,[vs70pgui.dll]-[BB81D811-3F9B-11D3-A50C-00C04F5E0BA5] : Install Page
+COMPage,[vs70pgui.dll]-[1920CC5D-5BE5-45d4-9C1C-3513D334C71C] : Install Page
+
+[Version]
+Signature="$CHICAGO$"
+Provider="Visual FoxPro 8.0 Professional - English"
+
+[GUID to Friendly Name Mapping]
+04D3D264-4A22-11d2-ACC7-00C04F8EEBA1,GFN_ Setup.exe
+98A7F199-EEC2-11d2-ACDB-00C04F8EEBA1,GFN_ CommandLine
+FFA0ABAC-4A7F-11d2-B8F9-00C04F797FB8,GFN_ WizardUI
+DECDD26F-5491-11d2-BEE7-00C04F797FB8,GFN_ Default Scenario Factory
+DECDD272-5491-11d2-BEE7-00C04F797FB8,GFN_ Custom Scenario
+DECDD273-5491-11d2-BEE7-00C04F797FB8,GFN_ Typical Scenario
+48121B76-8BDE-11d2-AF04-00C04F797FB8,GFN_ Minimal Scenario
+DECDD274-5491-11d2-BEE7-00C04F797FB8,GFN_ Complete Scenario
+9DE4FE99-5700-11d2-ACC7-00C04F8EEBA1,GFN_ SetupDB
+9DE4FE9A-5700-11d2-ACC7-00C04F8EEBA1,GFN_ SetupLog
+20D9416D-742D-11d2-AF03-00C04F797FB8,GFN_ Change Folder
+2B0A7483-8D57-11d2-941D-00C04FA35008,GFN_ Default Dependency UI
+9D194CF1-7A6A-11d2-940E-00C04FA35008,GFN_ Dependency Manager
+A4F9DC85-1881-11d3-8896-00C04F72D91B,GFN_ Cartman Agg Component
+E0A7B954-1881-11d3-8896-00C04F72D91B,GFN_ Cartman Contain Component
+24A501BA-90A1-11d2-AF05-00C04F797FB8,GFN_ CD Info Manager
+1B7EA23A-93CB-11d2-AF07-00C04F797FB8,GFN_ Template Manager
+5F2C847D-96A6-11d2-AF0A-00C04F797FB8,GFN_ Disk Info Manager
+01D92EBE-A8E3-11d2-BCEE-00C04F797FB8,GFN_ Account Manager
+6AF63660-A8EA-11d2-BCEE-00C04F797FB8,GFN_ Setup Validation
+053A4C40-121B-11d3-A823-00C04FB1799F,GFN_ PageFile Requirements
+05B2109B-13B7-11d3-A823-00C04FB1799F,GFN_ Processor Requirements
+8269DCC4-1457-11d3-A823-00C04FB1799F,GFN_ Platform Requirements
+F06AFA52-145A-11d3-A823-00C04FB1799F,GFN_ RAM Requirements
+A5F918AB-5E66-11d2-ACCA-00C04F8EEBA1,GFN_ Core Password
+5DFE21F0-BBA9-11d2-BCF8-00C04F797FB8,GFN_ Core AutoLogon
+496A525F-E168-11d2-ACD9-00C04F8EEBA1,GFN_ Core AutoLogon Previously Enabled
+A5F918AC-5E66-11d2-ACCA-00C04F8EEBA1,GFN_ Core User Name
+A5F918AD-5E66-11d2-ACCA-00C04F8EEBA1,GFN_ Core Organization
+A5F918AE-5E66-11d2-ACCA-00C04F8EEBA1,GFN_ Core PID 20
+A5F918AF-5E66-11d2-ACCA-00C04F8EEBA1,GFN_ Core PID 30
+A5F918B0-5E66-11d2-ACCA-00C04F8EEBA1,GFN_ Core License File
+0969412C-7281-11d2-AF01-00C04F797FB8,GFN_ Core Suite Directory
+BCC78D7A-89AE-11d2-AF03-00C04F797FB8,GFN_ Core Post Reboot
+7F242DEB-9933-11d2-AF0A-00C04F797FB8,GFN_ Core Progress Show Subs
+7F242DEC-9933-11d2-AF0A-00C04F797FB8,GFN_ Core Progress Show Tasks
+21AB4294-9EDC-11d2-BCE6-00C04F797FB8,GFN_ Core Ask For Pre Install
+21AB4295-9EDC-11d2-BCE6-00C04F797FB8,GFN_ Core Ask for Post Install
+BAE217D6-A5BB-11d2-BCEB-00C04F797FB8,GFN_ Core Suite Mode
+620DD71E-A5EB-11d2-BCEB-00C04F797FB8,GFN_ Core Suite Baseline
+A81C6A8C-D2A9-11d2-8DCE-00C04F797FB8,GFN_ Core Install Scenario Baseline
+C4FB0E3A-B4F7-11d2-BCF1-00C04F797FB8,GFN_ Core Force Disk Space OK
+3EF34D18-B7E8-11d2-BCF7-00C04F797FB8,GFN_ Core Ignore Final Disk Space Check
+0BE0948F-9604-11d2-ACD4-00C04F8EEBA1,GFN_ Core Disk Requirement
+0DC70217-9545-11d2-ACD4-00C04F8EEBA1,GFN_ Core Suite Name
+8C212B25-D815-11d2-ACD9-00C04F8EEBA1,GFN_ Core Registry
+F6353DD7-031A-11d3-ACE2-00C04F8EEBA1,GFN_ Core No Event Log
+481CEF9F-033A-11d3-ACE2-00C04F8EEBA1,GFN_ Core No Error Log
+667E8BBF-0713-11d3-ACE2-00C04F8EEBA1,GFN_ Core System Drive
+667E8BC0-0713-11d3-ACE2-00C04F8EEBA1,GFN_ Core Program Files
+340F792F-0E41-11d3-ACE2-00C04F8EEBA1,GFN_ Core Input Unattend File
+340F7930-0E41-11d3-ACE2-00C04F8EEBA1,GFN_ Core Output Unattend File
+340F7931-0E41-11d3-ACE2-00C04F8EEBA1,GFN_ Core Force Show Attended UI
+27CEFE6D-0E48-11d3-ACE2-00C04F8EEBA1,GFN_ Skip Defaultable UI
+E2DC890C-0F0F-11d3-ACE2-00C04F8EEBA1,GFN_ Encrypted Mode
+73BF7613-5F34-11d2-ACCA-00C04F8EEBA1,GFN_ StockProp Hidden
+DF99F02A-79AE-11d2-AF03-00C04F797FB8,GFN_ StockProp Required
+DE3AF114-8A61-11d2-AF03-00C04F797FB8,GFN_ StockProp SuiteBaseline
+D911B8E0-A9E1-11d2-BCEE-00C04F797FB8,GFN_ StockProp ScenarioBaseline
+B405F1B3-9526-11d2-8FE9-00C04FB1799F,GFN_ OS Unattended
+B405F1B4-9526-11d2-8FE9-00C04FB1799F,GFN_ OS Cmd
+0FD09FD2-6558-4C05-AD60-01A4696A937A,GFN_CID VS Baseline Requirements
+; Product ID
+235D8A94-2F97-11D6-A551-0090278A1BB8,GFN_ Visual FoxPro 8.0 Professional - English
+; Feature IDs
+024A175C-C539-11D3-A52B-00A0C9231BA1,GFN_ HTML Help 1.3 SDK
+235D8AA9-2F97-11D6-A551-0090278A1BB8,GFN_ VFP Graphics Library
+235D8AA7-2F97-11D6-A551-0090278A1BB8,GFN_ VFP Samples
+235D8AA5-2F97-11D6-A551-0090278A1BB8,GFN_ VFP Shared Features
+235D8AA4-2F97-11D6-A551-0090278A1BB8,GFN_ VFP Tools
+235D8AA3-2F97-11D6-A551-0090278A1BB8,GFN_ VFP8 Professional
+
+[License File]
+Location=eula.txt
+FailOnNotExist=0
+
+[CompleteComponentList]
+vs_setup.dll
+
+[PreInstallOrder]
+GFN_ Visual FoxPro 8.0 Professional - English
+
+[InstallOrder]
+GFN_ Visual FoxPro 8.0 Professional - English
+
+[PostInstallOrder]
+GFN_ Visual FoxPro 8.0 Professional - English
+
+[Updates]
+Null String
+
+[Managers]
+UI=vs70uimgr.dll
+Log=setuplog.dll
+ChangeFolder=DefChangeFolder.dll
+CDInfo=CDInfoMgr.dll
+DiskInfo=DiskInfoMgr.dll
+Account=AccountMgr.dll
+Template=TemplMgr.dll
+Dependency=DependMgr.dll
+Validation=Validation.dll
+ScenarioFactory=DefFactory.dll
+DependencyUI=DefDependencyUI.dll
+Encryption=CryptInf.dll
+Help=defhelp.dll
+ServerGroupManager=SvrGrpMgr.dll
+
+[Validation]
+Pid 3.0=pidgen.dll
+
+[Install Action Overrides]
+GFN_ Visual FoxPro 8.0 Professional - English,Action,5
+
+
+[Component Order]
+1,GFN_ VFP8 Professional
+2,GFN_ VFP Samples
+2,GFN_ VFP Tools
+2,GFN_ VFP Shared Features
+3,GFN_ HTML Help 1.3 SDK
+3,GFN_ VFP Graphics Library
+
+[PostSetupLaunchList]
+Null String
+
+[AdditionalObjectsList]
+Null String
+
+[Product Information]
+NullString=Null String
+SuiteMode=0
+InstallSuiteBaseline=1
+InstallScenarioBaseline=1
+DefaultDirectory="Microsoft Visual FoxPro 8"
+CmdLineHelp=1
+IgnoreFinalDiskSpaceCheck=1
+Suite="Visual FoxPro 8.0 Professional - English"
+Core Disk Requirement=10485760
+Processor Requirement=Null String
+RAM Requirement=64
+Pagefile Requirment=64
+ContinueOnFail=1
+PathToExe=bkoffice
+ExpandSubsByDefault=0
+CancelOnInsufficientSpace=0
+RequireName=1
+RequireOrg=1
+AddToAddRemovePrograms=0
+ShowUIInUnattend=0
+DefaultPid20=111-1111111
+DefaultPid30=HKCR4-JWFWR-K9TKD-YJ3D8-Q4T7M
+SuiteCmdLineHelpText=/fulllog
+TitleBarTextOverride=Null String
+NoDisplayInAutologon=Null String
+UserBrowseHelpFile=SYSDM.HLP
+UserBrowseHelpContext=10020
+CopySuiteFilesWhileRemoving=0
+ShowWizardHelpButtons=1
+WelcomeHeaderText=Null String
+WelcomeParagraph1Text=Null String
+WelcomeParagraph2Text=Null String
+WelcomeFooterText=Null String
+FinishHeaderText=Null String
+FinishParagraph1Text=Null String
+FinishFooterText=Null String
+ComCTLRequired=0
+DisplayColumns=15
+NoJPNFontUpdate=1
+
+[Suite Baseline]
+Null String
+
+[Scenario Display Order]
+Null String
+
+[Setup DB]
+Null String
+
+[Startup Sequence]
+welcome
+license
+nameorg
+pid 2.0
+pid 3.0
+autologon
+
+[Suite Page Sequence]
+suite directory
+scenario selection
+
+[Finish Sequence]
+errors
+finish
+
+[Post Setup Launch]
+Null String
+
+[Post Final Reboot Launch]
+Null String
+
+[CD Info]
+04D3D264-4A22-11d2-ACC7-00C04F8EEBA1,1,none,installdisk1
+GFN_ Visual FoxPro 8.0 Professional - English,1,..,installdisk1
+
+[Custom Property Overrides]
+Null String
+
+[Progress Display]
+ShowSubs=0
+ShowTasks=1
+
+[Error Log]
+Errorlog.txt
+
+[Event Log]
+Installlog.txt
+
+[Bitmaps]
+Header=Null String
+Watermark=Null String
+
+[Installation Prompting]
+AskForPreInstall=0
+AskForPostInstall=0
+
+[Dialog Page Order - Maintenance]
+COMPage,[vs70pgui.dll]-[F7AFBAD4-E116-4dbe-9965-AD718BA07CAE] : Maintenance Page
+COMPage,[vs70pgui.dll]-[9FE307C0-3646-11d3-A508-00C04F5E0BA5] : Options Page
+COMProgPage,[vs70pgui.dll]-[BB81D811-3F9B-11D3-A50C-00C04F5E0BA5] : Update Page
+COMPage,[vs70pgui.dll]-[1920CC5D-5BE5-45d4-9C1C-3513D334C71C] : Update Page
+
+[Dialog Page Order - Admin]
+COMPage,[vs70pgui.dll]-[BB81D810-3F9B-11D3-A50C-00C04F5E0BA5] : Start Page
+COMPage,[vs70pgui.dll]-[9FE307C0-3646-11d3-A508-00C04F5E0BA5] : Options Page
+COMProgPage,[vs70pgui.dll]-[BB81D811-3F9B-11D3-A50C-00C04F5E0BA5] : Install Page
+COMPage,[vs70pgui.dll]-[1920CC5D-5BE5-45d4-9C1C-3513D334C71C] : Install Page
+
+[Product Key]
+TCJC7H2QDH3T7G7R6RTMYRK3Y
+
+[VS Custom]
+Ver=8.0
+RegKey=VisualStudio
+LangCode=ENU
+LangID=1033
+CpuType=X86
+ProdFamilyType=VFP
+EditionType=PRO
+ImageType=CD
+ProdDesc=Microsoft Visual FoxPro 8.0 Professional
+ProdName=Visual FoxPro 8.0 Professional - English
+ProdID={235D8A94-2F97-11D6-A551-0090278A1BB8}
+VersionMajor=8
+VersionMinor=0
+Revision=2518
+ComponentDataFile=custom.dat
+
+[Dialog Page Order - AdminMaintenance]
+COMPage,[vs70pgui.dll]-[F7AFBAD4-E116-4dbe-9965-AD718BA07CAE] : Maintenance Page
+COMPage,[vs70pgui.dll]-[9FE307C0-3646-11d3-A508-00C04F5E0BA5] : Options Page
+COMProgPage,[vs70pgui.dll]-[BB81D811-3F9B-11D3-A50C-00C04F5E0BA5] : Install Page
+COMPage,[vs70pgui.dll]-[1920CC5D-5BE5-45d4-9C1C-3513D334C71C] : Install Page
+
+[Suite Requirements]
+vssetupreqs.dll, GFN_CID VS Baseline Requirements
+
